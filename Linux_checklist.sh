@@ -151,7 +151,7 @@ check_sensitive_directories
 
 echo -e "\n检查完毕" >&3
 
-#检查原生RPM包是否被篡改
+##检查原生RPM包是否被篡改
 ##rpm -Va
-#检查守护进程是否由systemd管理
+##检查守护进程是否由systemd管理
 ##systemctl list-units --type=service | grep
