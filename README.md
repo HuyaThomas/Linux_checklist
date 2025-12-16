@@ -1,6 +1,6 @@
 # Linux_checklist
 
-一个用于快速检查 Linux 系统常见安全与运行情况的脚本：Linux_checklist.sh。脚本将输出写入以日期命名的文本文件，终端显示简易进度条。
+一个用于快速检查 Linux 系统常见安全与运行情况的脚本：Linux_checklist.sh。
 
 ## 主要检查项：
 一、检查网卡是否在偷偷抓包（嗅探内网密码）。  
